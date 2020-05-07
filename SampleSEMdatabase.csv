@@ -1,4 +1,4 @@
-﻿Waterbody_LID,Avg_Temp,Avg_Percip,Avg_Gdd,Area_ha,Depth_Max,Strahler,WETLANDS,FORESTS,AGRICULTURE,DISTURBANCE,URBAN,Min.DO,Avg.DO,HypoSpace.Area,DOC..mg.L.,pH,Sulphate.mg.L.,Phosphorus..ug.L.,Species,SampleYear,Length_cm,Weight_g,Mercury_ug.g
+﻿Waterbody_LID,Avg_Temp,Avg_Percip,Avg_Gdd,Area_ha,Depth_Max,LakeOrder,WETLANDS,FORESTS,AGRICULTURE,DISTURBANCE,URBAN,Min.DO,Avg.DO,HypoSpace.Area,DOC..mg.L.,pH,Sulphate.mg.L.,Phosphorus..ug.L.,Species,SampleYear,Length_cm,Weight_g,Mercury_ug.g
 15-4109-56434,2.443932,753.846,1561.115,165,26,3,0.059785023,0.531225,0,0.408989962,0,4.04,5.21,0.38,11.4,6.7,1.5,12.6,Walleye,2009,45.2,771,1.8
 15-4216-54977,3.524913,680.2347,1752.814,163,14.6,3,0,0.9407818,0,0.059218203,0,0.25,6.67,0.59,8.1,7.5,2.4,7.8,Northern Pike,2011,42.1,405,0.19
 15-4395-54864,3.355715,678.2083,1726.712,10239,105.5,6,0.004012084,0.93513,0,0.013316746,0,1.75,9.79,0.74,3.6,6.9,0.1,4.5,Northern Pike,2010,64.1,1548,0.57
